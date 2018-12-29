@@ -120,38 +120,44 @@ $(document).ready(function() {
           title: "Weeknd Cover",
           artist: "Rcflowboy",
           mp3: "files/weekndNameCoverRough.mp3",
-          duration: "2.33"
+          duration: "3.03"
         },
         {
-          title: "Dubstep",
-          artist: "Bensound",
-          mp3: "files/bensound-dubstep.mp3",
-          duration: "2.04"
-        },
-        {
-          title: "Sunny",
-          artist: "Bensound",
-          mp3: "files/bensound-sunny.mp3",
-          duration: "2.20"
-        },
-        {
-          title: "Weeknd Cover",
+          title: "MIA",
           artist: "Rcflowboy",
-          mp3: "files/bensound-betterdays.mp3",
-          duration: "2.33"
-        },
-        {
-          title: "Dubstep",
-          artist: "Bensound",
-          mp3: "files/bensound-dubstep.mp3",
-          duration: "2.04"
-        },
-        {
-          title: "Sunny",
-          artist: "Bensound",
-          mp3: "files/bensound-sunny.mp3",
-          duration: "2.20"
+          mp3: "files/randyMia.mp3",
+          duration: "2.43"
         }
+        // {
+        //   title: "Dubstep",
+        //   artist: "Bensound",
+        //   mp3: "files/bensound-dubstep.mp3",
+        //   duration: "2.04"
+        // },
+        // {
+        //   title: "Sunny",
+        //   artist: "Bensound",
+        //   mp3: "files/bensound-sunny.mp3",
+        //   duration: "2.20"
+        // },
+        // {
+        //   title: "Weeknd Cover",
+        //   artist: "Rcflowboy",
+        //   mp3: "files/bensound-betterdays.mp3",
+        //   duration: "2.33"
+        // },
+        // {
+        //   title: "Dubstep",
+        //   artist: "Bensound",
+        //   mp3: "files/bensound-dubstep.mp3",
+        //   duration: "2.04"
+        // },
+        // {
+        //   title: "Sunny",
+        //   artist: "Bensound",
+        //   mp3: "files/bensound-sunny.mp3",
+        //   duration: "2.20"
+        // }
       ];
 
       var options = {
