@@ -127,6 +127,12 @@ $(document).ready(function() {
           artist: "Rcflowboy",
           mp3: "files/randyMia.mp3",
           duration: "2.43"
+        },
+        {
+          title: "In My Feelings",
+          artist: "Rcflowboy",
+          mp3: "files/RandyInMyFeelings.mp3",
+          duration: "2.33"
         }
         // {
         //   title: "Dubstep",
